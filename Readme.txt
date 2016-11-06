@@ -1,6 +1,6 @@
 Steps to buid and install application
 
-1. Open Project in netbeans. (Project is stored at "\Project\DB\" path)
+1. Open Project in netbeans. 
 2. Right click on project name, open properties and go to packeging option. Select Build Jar after compiling and Copy dependent Library option and press ok.
 3. Click on run in menu and click on clean and build main project.
 4. A deployable JAR will be created at "\dist\" path inside the project.
